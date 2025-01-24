@@ -1,0 +1,16 @@
+body {
+    background-color: #faf8fa;
+}
+
+.calculator {
+    width: 320px;
+    max-width: 100%;
+}
+
+#display {
+    font-size: 30px;
+    text-align: right;
+}
+.row g-2 {
+    bor
+}
